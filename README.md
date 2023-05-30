@@ -7,7 +7,8 @@ I am a person with the intention of being able to fulfill a dream, trying to do 
 - 💬 I speak English, Portuguese and Spanish (Spanish is my native language)
 - 🔭 Currently I do not work in any company, since I am studying to be the best in what I try.
 
-<figure><embed src="https://wakatime.com/share/@4aa5e490-a331-46fd-8bc3-a9216ec1c010/9359c27a-4568-4665-b3c2-44ebe3e3f25e.svg"></embed></figure>
+![Estadísticas de tiempo de uso de Wakatime](https://wakatime.com/share/@4aa5e490-a331-46fd-8bc3-a9216ec1c010/9359c27a-4568-4665-b3c2-44ebe3e3f25e.svg)
+
 
 <!--
 **Xodesito/Xodesito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
